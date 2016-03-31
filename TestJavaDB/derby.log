@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 25 15:17:49 BRT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0150-05b9-bc3e-000007215540 
+on database directory C:\Users\biasona\workspace\TestJavaDB\ng_poc_db with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/C:/Users/biasona/workspace/TestJavaDB/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=C:\Users\biasona\workspace\TestJavaDB
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
